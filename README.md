@@ -27,13 +27,17 @@ Feel free to customize the code and styles to match your preferences or add addi
 
 # Technologies Used
 HTML
+
 Bootstrap
+
 CSS
 
 
 # Author
-Your Name
+Name: K Adharsh
+
 Email: adarshkokkula@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/adharsh-kokkula/
 
 
